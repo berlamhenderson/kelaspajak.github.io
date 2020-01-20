@@ -15,7 +15,7 @@ Type `ideos Webcasts Whitepapers`
 #### icon
 - https://www.flaticon.com/free-icon/file_595496?term=file&page=1&position=29 file
 
-#### Submodule untuk fitur
+## Submodule untuk fitur
 - cd _docs 
 - https://stackoverflow.com/questions/12898278/issue-with-adding-common-code-as-git-submodule-already-exists-in-the-index
 - git submodule add https://github.com/kelaspajak/kup.git
