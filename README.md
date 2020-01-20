@@ -31,9 +31,11 @@ git add submodule_name
 git commit -m "updating submodule to latest"
 git push
 ```
+##### jika baru pertama kali dan isinya kosong maka
+
+`git submodule update --init`
 
 #### hasilnya 
-
 
 ```
 [submodule "_docs/aspekpajak"]
@@ -46,10 +48,6 @@ git push
 	path = _docs/lainlain
 	url = https://github.com/kelaspajak/lainlain.git
 ```
-
-##### jika baru pertama kali dan isinya kosong maka
-
-`git submodule update --init`
 
 ##### untuk update data
 `git submodule sync --recursive`
